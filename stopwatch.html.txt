@@ -1,0 +1,15 @@
+<body>
+  <div class="stopwatch">
+    <h2>Stopwatch Prodigy InfoTech Task 02</h2>
+    
+    <br>
+    
+    <h5>Created By <br>Maryam Siddiqui</h5>
+
+    <p><span id="tens">00</span>:<span id="seconds">00</span></p>
+
+    <button data-click="start" id="button-start">Start</button>
+    <button data-click="stop" id="button-stop">Stop</button>
+    <button data-click="reset" id="button-reset">Reset</button>
+  </div>
+</body>
